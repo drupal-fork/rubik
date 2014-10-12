@@ -1,5 +1,14 @@
 /* Custom CSS for making Views 3 play nice with Rubik */
 
+#views-display-menu-tabs {
+  float: left;
+  overflow: visible;
+}
+
+.views-displays .secondary .action-list {
+  top: 21px;
+}
+
 .views-displays .secondary .action-list input.form-submit {
   box-shadow: none;
   -moz-box-shadow: none;
