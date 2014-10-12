@@ -489,6 +489,10 @@ select.form-select {
   height: 28px;
 }
 
+select[multiple="multiple"] {
+  height: auto;
+}
+
 input.form-autocomplete,
 input.form-text,
 input.form-file,
